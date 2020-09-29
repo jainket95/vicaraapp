@@ -1,0 +1,17 @@
+.main_container_home{
+  width: 100vw;
+  height:100vh;
+  display: flex;
+  align-items: stretch;
+  justify-content: stretch;
+}
+
+.logout_container{
+  width: 35%;
+  padding: 2rem;
+  
+}
+
+.image_container{
+  width: 65%;
+}
